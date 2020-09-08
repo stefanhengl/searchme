@@ -1,6 +1,7 @@
 # ignore this line
 
-dir3
-dir1
+dir3/
+dir1/
 
+**foo**
 
